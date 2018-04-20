@@ -1,14 +1,12 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
+## Turma 5K
 ## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Giovanni Vicario
+* Marco Vallim
+* Suelen Maia
 _______________________________________
 Obs:
 

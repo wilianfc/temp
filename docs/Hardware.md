@@ -10,4 +10,4 @@ Especifiação de Hardware - Projeto Estufa Inteligente
 - Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal (Triac + Zero Crossing).
 
 
-![Screenshot] Circuito_Estufa.png
+![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/Circuito_Estufa.png)

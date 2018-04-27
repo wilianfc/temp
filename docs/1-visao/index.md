@@ -1,21 +1,19 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Estufa Inteligente"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto *"Estufa Inteligente"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Monitorar a luminosidade visando obtenção de dados sobre condições ideiais para as plantas
+* Controlar a luminosidade das lâmpadas à distância evitando fadiga e aumentando longevidade das plantas
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Excesso de luminosidade causa fadiga e desgastes para as plantas.
+* Quem é afetado pelo problema: Agricultores, cultivadores e demais profissionais que atuam com estufas artificiais
+* Impacto no negócio: Maior expectativa de vida das plantas devido exposição à luminosidade mais próxima do ideal
+* Benefícios de uma boa solução: Redução de custos e ampliação no faturamento, visto o aumento da longevidade das plantas
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -33,30 +31,25 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Agricultores
+* Cultivadores de plantas
+* Floriculturistas
+* Demais profissionais que atuam com estufas artificiais
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Operador do controle de luminosidade lâmpada
+
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Monitoramento dos índices de luminosidade
+* Comparação dos índices observados com os ideais
+* Controle à distância da intensidade do brilho da lâmpada
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Controle da intensidade depende de conexão com a internet
 
 ## Protótipos
 

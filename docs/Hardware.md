@@ -8,3 +8,6 @@ Especifiação de Hardware - Projeto Estufa Inteligente
 - 1 Resistor 330 Ohm para cada LED;
 - Lâmpada; e
 - Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal (Triac + Zero Crossing).
+
+
+![Screenshot] Circuito_Estufa.png

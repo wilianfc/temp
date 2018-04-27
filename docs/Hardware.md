@@ -1,4 +1,4 @@
-Especifiação de Hardware - Projeto Estufa Inteligente
+ESPECIFICAÇÃO DE HARDWARE - ESTUFA INTELIGENTE
 
 - Arduino UNO R3;
 - Protoboard branco (830 pontos)
@@ -9,5 +9,7 @@ Especifiação de Hardware - Projeto Estufa Inteligente
 - Lâmpada; e
 - Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal (Triac + Zero Crossing).
 
+
+ESQUEMA DO CIRCUITO
 
 ![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/Circuito_Estufa.png)

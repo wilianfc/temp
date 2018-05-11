@@ -1,10 +1,11 @@
 # INTERFACE
 
 
-![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/Circuito_Estufa.png)
+![interface](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/3-interfaces_e_comunicacao/interface.png)
 
 
-![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/docs/3-interfaces_e_comunicacao/Capture+_2018-05-09-12-45-35.png)
+
+
 
 
 # PROTOCOLOS DE COMUNICAÇÃO

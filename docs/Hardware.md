@@ -4,8 +4,11 @@
 
 Para esse projeto, foram utilizados os componentes descritos a seguir.
 
-**Arduino UNO R3**  
-(imagem)
+**Arduino UNO R3**
+
+O Arduino Uno R3 é a placa Arduino mais vendida e usada atualmente. Costuma ser a primeira opção de muitos, pois apresenta uma ótima quantidade de portas disponíveis e grande compatibilidade com os Shields Arduino.
+
+![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/docs/img_hardware/arduinoR3.png)
 
 **Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal**
 

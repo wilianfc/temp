@@ -1,16 +1,8 @@
-# *Nome do Projeto*
+# Estufa Inteligente - Smart Light
 
-## Documentos
-* Documentação Hardware
-* Documentação Interfaces/Integração comunicação
-* Documentação Software
-* Desenvolvimento
-* Entrega Final
-
-Documentações que podem compor as entregas:
-* [Documento de Visão do Projeto](1-visao/)
-* [Casos de Uso](2-casos-de-uso/)
-* Mapas de Navegação
-* Arquitetura
-* Detalhamento dos Componentes
-
+### Documentos
+ - [Documento de Visão do Projeto](1-visao/)
+ - [Documentação Hardware](/Hardware.md)
+ - Documentação Interfaces/Integração comunicação
+ - Documentação Software
+ - Desenvolvimento

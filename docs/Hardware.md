@@ -32,13 +32,16 @@ O Ethernet Shield W5100 permite que uma placa Arduino conecte-se a internet. É 
 (imagem)
 
 **Lâmpada**
+
 (imagem)
 
 **Protoboard**
+
 400 pontos.
+
 (imagem)
 
-**Sensor de Luminosidade Digital I2C - BH1750FVI (Módulo GY-30)**
+**Módulo GY-30 Sensor de Luminosidade - BH1750FVI**
 
 O Sensor de Luz BH1750FVI é capaz de medir a intensidade da luz em lux na faixa de 1 a 65535 lx, sendo ideal para aplicação em sistemas de controle de iluminação automático ou apenas circuitos para medição da luz ambiente nos mais diversos tipos de projetos robóticos ou de automação residencial.
 

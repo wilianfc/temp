@@ -7,7 +7,7 @@ Para esse projeto, foram utilizados os componentes descritos a seguir.
 **Arduino UNO R3**  
 (imagem)
 
-**Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal (Triac + Zero Crossing).**
+**Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal**
 
 O Dimmer Shield é um shield para Arduíno. É utilizado para controlar a potência de aparelhos elétricos domésticos, por exemplo, lâmpada incandescente, lâmpadas fluorescente ou LED dimerizáveis, ventilador de mesa e de teto, liquidificador, entre outros.
 Compatível com o Arduino UNO R3

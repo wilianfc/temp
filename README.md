@@ -9,5 +9,7 @@
 * Suelen Maia
 _______________________________________
 Obs:
+
 `src/` contém os códigos desenvolvidos
+
 `doc/` contém a documentação do projeto

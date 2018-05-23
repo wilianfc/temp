@@ -1,4 +1,4 @@
-# Especificação de Hardware - Estufa Inteligente.
+# Especificação de Hardware Estufa Inteligente - Smart Light.
 
 ## Lista de Peças
 

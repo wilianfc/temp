@@ -44,13 +44,9 @@ Led Dimerizável
 *Especificações técnicas*
 
 Tensão Elétrica: 110V
-
 Cor da Luz: Branca
-
 Potência: 10W
-
 Tipo de Soquete: E27
-
 Formato: Bulbo
 
 

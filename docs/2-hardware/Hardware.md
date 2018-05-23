@@ -8,7 +8,7 @@ Para esse projeto, foram utilizados os componentes descritos a seguir.
 
 O Arduino Uno R3 é a placa Arduino mais vendida e usada atualmente. Costuma ser a primeira opção de muitos, pois apresenta uma ótima quantidade de portas disponíveis e grande compatibilidade com os Shields Arduino.
 
-![Imagem Ardino Uno R3](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/img_hardware/arduinoR3.png)
+![Imagem Ardino Uno R3](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/arduinoR3.png)
 
 
 **Dimmer Shield Arduino - 110 Vac E 220 Vac - 1 Canal**
@@ -28,14 +28,14 @@ Com dissipador externo maior:
  - Potência máxima com dissipador externo maior – 127 Volts: 1016 Watts.
  - Potência máxima com dissipador externo maior – 220 Volts: 1760 Watts.
 
-![Imagem Dimmer Shield](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/img_hardware/dimmer.png)
+![Imagem Dimmer Shield](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/dimmer.png)
 
 
 **Ethernet Shield W5100**
 
 O Ethernet Shield W5100 permite que uma placa Arduino conecte-se a internet. É baseado no chip ethernet da WIZnet ethernet W5100 que fornece acesso à rede (IP) nos protocolos TCP ou UDP e é facilmente utilizado usando a biblioteca Ethernet Library e SD Library. Este shield suporta até quatro conexões de socket simultâneas. É compatível com o Arduino UNO R3.
 
-![Imagem Ethernet Shield](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/img_hardware/ethernet.png)
+![Imagem Ethernet Shield](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/ethernet.png)
 
 **Lâmpada**
 
@@ -50,7 +50,7 @@ Tipo de Soquete: E27
 Formato: Bulbo  
 
 
-![Imagem Lâmpada Led](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/img_hardware/lampada.png)
+![Imagem Lâmpada Led](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/lampada.png)
 
 **Protoboard**
 
@@ -68,7 +68,7 @@ Faixa de Temperatura: -20 a 80°C
 Dimensões: 8,3 x 5,5 x 1,0 cm
 
 
-![Imagem Protoboard](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/img_hardware/protoboard.png)
+![Imagem Protoboard](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/protoboard.png)
 
 
 **Módulo GY-30 Sensor de Luminosidade - BH1750FVI**
@@ -85,8 +85,8 @@ Resolução: 1lx (lux)
 - Faixa de medição: 1 ~ 65535lx
 - Baixa variação de medição: +/- 20%
 
-![Imagem Módulo GY-30](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/img_hardware/modulo_gy30.png)
+![Imagem Módulo GY-30](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/modulo_gy30.png)
 
 ## Esquema Eletrônico
 
-![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/Circuito_Estufa.png)
+![alt text](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/Circuito_Estufa.png)

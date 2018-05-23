@@ -1,7 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma 5K
-## Projeto: "Projeto Estufa Inteligente - Smart Light"
+## Projeto: "Estufa Inteligente - Smart Light"
 ## Integrantes do grupo:
 
 * Giovanni Vicario
@@ -10,6 +10,6 @@
 _______________________________________
 Obs:
 
-`src/` deve conter os códigos desenvolvidos
+`src/` contem os códigos desenvolvidos
 
-`doc/` documentação do projeto
+`doc/` contem a documentação do projeto

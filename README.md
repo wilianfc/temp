@@ -12,6 +12,6 @@ Obs:
 
 `app/` contém os códigos desenvolvidos para o aplicativo
 
-`src/` contém os códigos desenvolvidos para o Arduino
-
 `doc/` contém a documentação do projeto
+
+`src/` contém os códigos desenvolvidos para o Arduino

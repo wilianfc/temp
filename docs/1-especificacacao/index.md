@@ -40,4 +40,4 @@ O controle da iluminação depende de conexão com a internet e da disposição 
 
 Protótipos para as funcionalidades de controle à distância e automático da iluminação.
 
-![](proto1.png)
+![Imagem Protótipo da tela](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-especificacao/especificacao/tela_app.png)

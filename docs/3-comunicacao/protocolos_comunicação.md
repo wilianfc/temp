@@ -1,8 +1,7 @@
 # INTERFACE
 
 
-![interface](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/3-interfaces_e_comunicacao/interface.png)
-
+![Imagem Protótipo da tela](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/1-especificacacao/img_especificacao/tela_app.PNG)
 
 
 

@@ -10,7 +10,9 @@
 _______________________________________
 Obs:
 
-`app/` contém os códigos desenvolvidos para o aplicativo
+`ionic/` contém os códigos desenvolvidos para o aplicativo
+
+`Heroku/` contém os códigos para subir o aplicativo na nuvem
 
 `docs/` contém a documentação do projeto
 

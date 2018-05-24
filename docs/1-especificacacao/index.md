@@ -1,68 +1,43 @@
-# Documento de Visão do Projeto "Estufa Inteligente"
+# Documento Descritivo do Projeto Estufa Inteligente - Smart Light
 
-Este documento apresenta uma solução de software para o projeto *"Estufa Inteligente"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
+Este documento apresenta uma solução de IoT para o projeto *Estufa Inteligente - Smart Light*, descrevendo os problemas a serem solucionados, as necessidades dos principais envolvidos e as funcionalidades. 
 
 ## Objetivos
 
-* Monitorar a luminosidade visando obtenção de dados sobre condições ideiais para as plantas
-* Controlar a luminosidade das lâmpadas à distância evitando fadiga e aumentando longevidade das plantas
+O uso da luz artificial faz com que o produtor possua um maior domínio sobre o crescimento de suas plantas, uma vez que cada espécie necessita de uma quantidade e intensidade de luz por dia. Além disso, algumas sessões do espectro luminoso auxiliam no crescimento de partes específicas da planta e o agricultor deve usar isso a seu favor (Campos, 2016).
 
+Os principais objetivos deste projeto são, monitorar e controlar à distância a luminosidade do ambiente, visando melhores condições para as plantas, isso garante maior qualidade do que é cultivado, aumenta a produtividade e ainda evita o uso de produtos químicos, que são a alternativa para amenizar os danos causados pelo excesso da luz solar.
+ 
 ## Problema
 
-* Descrição do problema: Excesso de luminosidade causa fadiga e desgastes para as plantas.
-* Quem é afetado pelo problema: Agricultores, cultivadores e demais profissionais que atuam com estufas artificiais
-* Impacto no negócio: Maior expectativa de vida das plantas devido exposição à luminosidade mais próxima do ideal
-* Benefícios de uma boa solução: Redução de custos e ampliação no faturamento, visto o aumento da longevidade das plantas
+A fotossíntese é um processo realizado pela planta, onde a mesma obtém energia, realiza a respiração entre as células e produz os carboidratos necessários para realizar sua manutenção das paredes celulares (Campos, 2016).
 
-## Definições, abreviações e outros termos do domínio do problema
+Esse processo se utiliza diretamente da luz solar e é essencial para a vida da planta, contudo, tanto pelas alterações climáticas como por condições térmicas instáveis de diversas regiões, essa dependência do sol tem causado um desequilíbrio no sistema de produção agrícola (Campos, 2016).
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+Embora a luz solar seja uma grande riqueza para o produtor, quando em excesso pode causar danos graves para os cultivos, queimando e prejudicando diretamente a circulação de água pelos caules (Campos, 2016).
 
-## Integração com outros sistemas
+O uso da luz artificial faz com que o produtor possua um maior domínio sobre o crescimento de suas plantas, uma vez que cada espécie necessita de uma quantidade e intensidade de luz por dia. Além disso, algumas sessões do espectro luminoso auxiliam no crescimento de partes específicas da planta. Com o uso de iluminação artificial, é possível regular a intensidade da luz e até mesmo a forma como essa atinge a folhagem. (Campos, 2016).
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
- 
-## Interessados
+## Público alvo
 
-* Agricultores
-* Cultivadores de plantas
-* Floriculturistas
-* Demais profissionais que atuam com estufas artificiais
+Os principais interessados são os agricultores e floriculturistas. A aplicação dessa técnica tem se tornado cada vez mais comum na agricultura orgânica, uma vez que, o uso da iluminação artificial em mudas e sementes também auxilia o desenvolvimento e evita o uso dos produtos químicos que amenizam os danos causados pelo sol.
 
 ## Usuários
 
-* Operador do controle de luminosidade lâmpada
-
+Trabalhadores e/ ou técnicos responsáveis pela estufa.
 
 ## Funcionalidades do produto
 
-* Monitoramento dos índices de luminosidade
-* Comparação dos índices observados com os ideais
-* Controle à distância da intensidade do brilho da lâmpada
+ 1. Monitoramento dos índices de luminosidade.
+ 2. Controle à distância da intensidade do brilho da lâmpada.
+ 3. Controle automático da intensidade do brilho da lâmpada.
 
 ## Restrições do projeto
 
-* Controle da intensidade depende de conexão com a internet
+O controle da iluminação depende de conexão com a internet e da disposição correta dos sensores de luminosidade, além disso, a manutenção inadequada das instalações elétricas, pode comprometer o bom funcionamento do conjunto.
 
 ## Protótipos
 
-### Protótipos para funcionalidade 1
+Protótipos para as funcionalidades de controle à distância e automático da iluminação.
 
 ![](proto1.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade 2
-
-![](proto2.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade N

@@ -1,14 +1,10 @@
-## Fazendo o aplicativo ionic
+# Criando um aplicativo Ionic
 
-1- Será necessario ter node.js e o ionic instaldo no PC
-
+ 1. Será necessario ter node.js e o ionic instaldo no PC
 https://nodejs.org/en/
-
+ 2. Execute o seguinte comando para instalar o Ionic:
 `npm instal ionic`
-
-2 -Depois começar um novo projeto 
+ 3. Para iniciar um novo projeto, execute o seguinte comando: 
 `ionic start myApp Blank`
 
-3- entao começar a Desenvolver:
-
-Lembrando de fazer um provider, onde nele irá fazer a conexão com o Back-end
+*Lembre-se de fazer um provider para fazer a conexão com o Back-end.*

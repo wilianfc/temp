@@ -1,10 +1,10 @@
 # Subindo a aplicação em um servidor HEROKU
 
- 1. Criar um conta no Heroku.
+ 1. Criar uma conta no Heroku.
  https://www.heroku.com/
  2. Clicar em "create a new App".
- 3. Criar em servidor Node.js.
- 4. Em 'Dashboard', clicar no novo projeto criado.
+ 3. Criar um servidor Node.js.
+ 4. Em 'Dashboard', clicar no projeto criado.
  5. Clicar em 'Deploy'.
  6. Criar um repositório no GitHub, onde ficará o seu código do servidor.
  7. Pegar a pasta `www` do seu projeto IONIC, e colar na pasta do seu projeto do Servidor.

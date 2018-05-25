@@ -1,4 +1,4 @@
-##Subindo a aplicação em um servidor HEROKU
+## Subindo a aplicação em um servidor HEROKU
 
 1- Criar um conta no Heroku
 https://www.heroku.com/

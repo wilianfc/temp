@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      IoT
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div class="conteudo">
+    <ion-img class="image"src="assets/imgs/lampada.jpg"></ion-img>
+    <div class="outra">
+      <ion-badge>{{brightness}}</ion-badge> 
+    </div>
+    <div class="rangin">
+      <ion-range min="0" max="100" 
+      step="10" [(ngModel)]="brightness"
+      #x (ionChange)="ola(x._value)">
+            <ion-icon small range-left name="sunny"></ion-icon>
+            <ion-icon range-right name="sunny"></ion-icon>
+      </ion-range>
+    </div>
+        <ion-label>Modo</ion-label>
+        <ion-label>Automático?</ion-label>
+        <ion-toggle [(ngModel)]="n" (ionChange)="toggle(n)"></ion-toggle>    
+  </div>
+</ion-content>

@@ -7,4 +7,4 @@ https://nodejs.org/en/
  3. Para iniciar um novo projeto, execute o seguinte comando: 
 `ionic start myApp Blank`
 
-*Lembre-se de fazer um provider para fazer a conexão com o Back-end.*
+*Lembre-se de criar um provider para fazer a conexão com o Back-end.*

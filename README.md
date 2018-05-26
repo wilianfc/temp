@@ -1,17 +1,48 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 6J11
+## Projeto: Braço Robótico 
+
+![](projeto.jpeg)
+
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-_______________________________________
-Obs:
+* Bruna Aparecida De Jesus Papeschi 
+* Bruno Rafael Silva 
+* Gustavo Fernandes 
+* Marcely Biguzzi Santello
+* Thaynara de Souza Ferreira 
 
-`src/` deve conter os códigos desenvolvidos
+###  Documentação
 
-`doc/` documentação do projeto
+| Documento                    |Status       |
+|---|---|
+| Documentação do Hardware | Complete    |
+| Documentação da Visão    | Complete    |
+| Requisitos               | Complete   |
+| Casos de Uso             | Complete    |
+| Interface                | Complete    |
+| Protocolos               | Complete    |
+| Modulos de Comunicação   | Complete    |
+
+###  Desenvolvimento do Código 
+
+|Modulos                   |Status       |
+|---|---|
+| Codigo                   | Complete |
+| Bibliotecas              | Complete |
+
+### Software de Controle  
+
+|Modulos                   |Status       |
+|---|---|
+| Codigo                   | Complete    |
+| Bibliotecas              | Complete |
+
+### Issues  
+ 
+|Modulos                   |Status       |  
+|---|---|
+| Carregamento de imagens  |Open         | 
+| Mudança de Escopo- Wireless                      |Open         |
+|Proporção do Protótipo    |Open|
